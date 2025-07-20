@@ -2,7 +2,7 @@
 
 Привет! Я junior-разработчик на Python и JavaScript.
 
-[Резюме](https://docs.google.com/document/d/1V_NC9Mw-DkOUdVErG17hlVQw2Ga4UJS5VIhx9vezaS0/edit)
+[Резюме](https://docs.google.com/document/d/19z2JL78_9wpnu3uimctfAbMurcOtMTLs/edit?usp=sharing&ouid=100807289516662879055&rtpof=true&sd=true)
 
 Со мной можно связаться по [**e-mail**](a.platcev@ya.ru) или в [**Telegram**](https://t.me/npukojiucm)
 
