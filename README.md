@@ -30,3 +30,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🎓 Курсы и обучение
+
+### Fullstack-разработчик на Python — Нетология
+Изучение backend и frontend разработки:
+
+- 🐍 **Python** — основы языка, ООП, работа с БД, HTTP, тестирование  
+  → https://github.com/npukojiucm/netology-python-homeworks
+
+- 🌐 **Django** — backend-разработка, ORM, модели, REST-подход  
+  → https://github.com/npukojiucm/netology-django-homeworks
+
+- ⚙️ **JavaScript** — основы языка, асинхронность, работа с API  
+  → https://github.com/npukojiucm/netology-javascript-homeworks
+
+- ⚛️ **React** — компоненты, hooks, управление состоянием  
+  → https://github.com/npukojiucm/netology-react-homeworks
+
+---
+
+### Node.js — курс (learn.javascript.ru)
+Курс по Node.js на https://learn.javascript.ru/
+
+Изучение Node.js как backend-технологии:
+- основы работы с Node.js
+- асинхронность и event loop
+- файловая система
+- модули и npm
+- базовая работа с HTTP
+- практические задания и их решения
+
+🔗 Репозиторий с заданиями:  
+→ https://github.com/npukojiucm/nodejs-20230131_npukojiucm
+
