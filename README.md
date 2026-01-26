@@ -8,7 +8,7 @@ Frontend-разработчик с фокусом на **React / Next.js**
 
 📄 Резюме: https://docs.google.com/document/d/19z2JL78_9wpnu3uimctfAbMurcOtMTLs  
 ✉️ Email: a.platcev@ya.ru  
-💬 Telegram: https://t.me/npukojiucm
+💬 Telegram: https://t.me/aplatcev
 
 ---
 
