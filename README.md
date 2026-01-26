@@ -44,6 +44,8 @@ CRUD, фильтрация, поиск и избранное.
 🔗 Репозиторий:  
 https://github.com/npukojiucm/products
 
+---
+
 ### 💬 WhatsApp Chat (React, GREEN-API)
 Тестовое задание на позицию Frontend React Developer.
 
@@ -55,6 +57,8 @@ https://github.com/npukojiucm/products
 - асинхронная отправка и получение сообщений
 
 📄 Тестовое задание выполнено и принято, получен [сертификат](https://drive.google.com/file/d/1IdBPuy0PSwcr8_kG8VTz6FFJXAQ4AP6t/view?usp=sharing)
+
+---
 
 ### 👤 Users Service (Node.js, TypeScript)
 Тестовое задание на позицию Junior Node.js-разработчик
