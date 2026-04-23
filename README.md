@@ -4,8 +4,8 @@
 
 Проектирую масштабируемую архитектуру клиентских приложений (FSD), выстраиваю интеграции с REST API и WebSocket, управляю сложным стейтом. Имею опыт координации команды (MVP) и бэкграунд в бизнесе, что помогает мне писать код, ориентированный на продуктовые задачи.
 
-📄 [Мое резюме](https://docs.google.com/document/d/19z2JL78_9wpnu3uimctfAbMurcOtMTLs)  
-✉️ Email: a.platcev@ya.ru  
+📄 [Мое резюме](./resume.pdf)
+✉️ Email: a.platcev@ya.ru
 💬 Telegram: [@aplatcev](https://t.me/aplatcev)
 
 ---
